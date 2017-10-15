@@ -1,0 +1,28 @@
+{
+  "name": "hang_man_nodejs",
+  "version": "1.0.0",
+  "description": "Hangman Using contructor techniques",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rubenjose2/Hang_man_NODEJS.git"
+  },
+  "keywords": [
+    "NODE",
+    "hangman",
+    "Javascript",
+    "propm"
+  ],
+  "author": "Ruben Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rubenjose2/Hang_man_NODEJS/issues"
+  },
+  "homepage": "https://github.com/Rubenjose2/Hang_man_NODEJS#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
