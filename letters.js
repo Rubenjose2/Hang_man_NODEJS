@@ -1,9 +1,7 @@
-var newWords = require("./words");
+// This file contecnt a contructor of letter//
+//Would receive a character and return the same character with a caracteristic visivility tru or false//
 
-var word = new newWords("Andres");
-
-console.log(word);
-
-function letters(word, letter) {
-    this.leng = word.lenght;
+function letter(char) {
+    this.char = char;
+    this.visivility = false;
 }
